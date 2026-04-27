@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## 🎨: system design
+<img width="521" height="642" alt="image" src="https://github.com/user-attachments/assets/77dde3f0-e309-48b0-9e04-c77bcc581d56" />
 
 This project is a starting point for a Flutter application.
 

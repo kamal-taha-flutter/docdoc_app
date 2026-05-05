@@ -14,7 +14,7 @@ class DocLogoAndText extends StatelessWidget {
       children: [
         SvgPicture.asset('assets/svgs/docdoc_logo.svg'),
         Gap(10.w),
-        Text("Docdoc",style: TextStyles.font24Black700Weight,)
+        Text("Docdoc",style: TextStyles.font24BlackBold,)
       ],
     );
   }

@@ -35,9 +35,8 @@ class SignupScreen extends StatelessWidget {
                     //Feilds
                     SignupFields(),
 
-                    verticalSpacing(24),
+                    verticalSpacing(16),
                    
-                    verticalSpacing(24),
                     AppTextButton(
                       buttonText: 'Sign Up',
                       textStyle: TextStyles.font16WhiteSemiBold,
